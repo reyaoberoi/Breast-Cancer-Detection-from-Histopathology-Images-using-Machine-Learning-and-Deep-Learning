@@ -12,7 +12,7 @@ This repository presents a **comprehensive comparative study of classical Machin
 
 ## 📂 Projects Included
 
-### 🔹 1. Classical Machine Learning Analysis
+### 1. Classical Machine Learning Analysis
 
 * Feature-based ML classification using:
 
@@ -38,7 +38,7 @@ This repository presents a **comprehensive comparative study of classical Machin
 
 ---
 
-### 🔹 2. Deep Learning & Transfer Learning Analysis
+### 2. Deep Learning & Transfer Learning Analysis
 
 * End-to-end image classification using CNNs and pretrained architectures:
 
@@ -95,9 +95,11 @@ This repository presents a **comprehensive comparative study of classical Machin
 | Machine Learning | XGBoost           | **94.9%**  |
 | Deep Learning    | EfficientNetV2-B0 | **91.41%** |
 
-✔ Transfer learning models consistently outperformed custom CNNs
-✔ Ensemble ML models demonstrated strong robustness and interpretability
-✔ EfficientNetV2-B0 offered the best trade-off between accuracy and speed
+ * Transfer learning models consistently outperformed custom CNNs
+
+ * Ensemble ML models demonstrated strong robustness and interpretability
+
+ * EfficientNetV2-B0 offered the best trade-off between accuracy and speed
 
 ---
 
