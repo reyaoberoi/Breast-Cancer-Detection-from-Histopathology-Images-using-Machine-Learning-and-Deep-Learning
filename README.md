@@ -127,10 +127,3 @@ This repository presents a **comprehensive comparative study of classical Machin
 * **Reya Oberoi**
 * Maanasvee Khetan
 * Sanya Malik
-
----
-* 🧠 Write a **“Research Highlights” section for your CV**
-* ✨ Make your resume bullets **FAANG / MS / PhD application ready**
-* 📄 Create a **CITATION.cff** file for GitHub
-
-Just say the word 💙
